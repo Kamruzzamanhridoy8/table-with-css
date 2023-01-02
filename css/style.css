@@ -1,0 +1,125 @@
+body{
+    background-image: url(../images/bk.jpg);
+    background-attachment: fixed;
+    background-repeat:no-repeat;
+    background-size: 100%;
+}
+table{
+    width: 1480px;
+    text-align: center;
+}
+.menu{
+    height: 50px;
+    color: rgb(90, 100, 238);
+    background-color: rgba(255, 255, 255, 0);
+}
+.menu td a img{
+    height: 80px;
+}
+.menu a{
+    text-decoration: none;
+    font-size: 18px;
+    color: rgb(214, 230, 248);
+}
+.menu td input{
+    height: 35px;
+    width: 220px;
+    border-radius: 30px;
+    border: solid 0px;
+}
+.slider td a img{
+    width: 600px;
+    margin-top: 50px;
+    border-radius: 30px;
+}
+.slider td .contant{
+    height: 200px;
+    width: 500px;
+    margin-left: 33.2%;
+    margin-top: -280px;
+    color: white;
+}
+.product{
+   margin-top: 80px;
+}
+.product td a img{
+    height: 160px;
+    border-radius: 20px;
+    margin-top: 100px;
+}
+.product td h2{
+    color: rgb(255, 255, 255);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.product td p{
+    text-align: justify;
+    padding: 0px 20px 0px 20px;
+    color: rgb(0, 0, 0);
+}
+.product td button{
+    height: 40px;
+    border-radius: 7px;
+    background-color: rgba(3, 151, 151, 0.884);
+    color: white;
+    border: solid 0px;
+    text-align: right;
+    
+}
+.productlast td button{
+    margin-bottom: 60px;
+}
+
+.button td button{
+    margin:0px 15px 90px 15px ;
+    margin-top: 80px;
+    height: 27px;
+    width: 27px;
+    background-attachment: fixed;
+    background-color: rgb(3, 151, 151, 0.884);;
+    border: solid;
+    border: 1px white;
+    border-radius: 5px;
+    color: white;
+    
+}
+.button td .pn{
+    height: 30px;
+    width: 80px;
+    margin: 0px 180px 0px 180px;
+} 
+.footer{
+    height: 250px;
+    width: 100%;
+    border: solid;
+    background-color: rgba(216, 229, 248, 0.329);
+    border-radius: 30px;
+    
+}
+.footer td{
+    border-radius: 30px;
+}
+.info{
+    background-color: rgb(26, 209, 241);
+    background-attachment: fixed;
+    height: 350px;
+    width: 100%;
+}
+iframe{
+    height: 75px;
+    border-radius: 20px;
+    width: 200px; 
+}
+.form input{
+    height: 30px;
+    width: 200px;
+    border-radius: 20px;
+    border: 0px solid;
+}
+.form button{
+    height: 35px;
+    width: 70px;
+    border-radius: 20px;
+    border: 0px solid;
+    color: white;
+    background-color: rgb(7, 172, 248);
+}
